@@ -1,0 +1,2 @@
+BKG0002|USR002|FAC001|seminar|2026-03-02|Slot 9 [16:00 - 17:00];Slot 10 [17:00 - 18:00]|SPECIAL_APPROVED|Special request: emergency meeting
+BKG0002|USR003|FAC001|seminar|2026-09-20|Slot 3 [10:00 - 11:00];Slot 4 [11:00 - 12:00];Slot 5 [12:00 - 13:00]|PENDING|

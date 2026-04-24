@@ -1,0 +1,20 @@
+[2026-02-28 23:01] User registered – harini – STUDENT
+[2026-02-28 23:01] User logged in – harini – STUDENT
+[2026-02-28 23:02] User registered – jo@edu – FACULTY
+[2026-02-28 23:02] User logged in – jo@edu – FACULTY
+[2026-02-28 23:04] User logged in – System Admin – ADMIN
+[2026-02-28 23:04] Facility added – seminar hall
+[2026-02-28 23:05] Facility updated – seminar
+[2026-02-28 23:06] User logged in – harini – STUDENT
+[2026-02-28 23:08] Booking created – seminar – PENDING
+[2026-02-28 23:09] Booking created – seminar – PENDING
+[2026-02-28 23:10] Special permission requested – Booking: BKG0002 – seminar
+[2026-02-28 23:10] User logged in – System Admin – ADMIN
+[2026-02-28 23:12] User logged in – harini – STUDENT
+[2026-02-28 23:13] User logged in – System Admin – ADMIN
+[2026-02-28 23:13] Special request approved – REQ0001 – Booking: BKG0002
+[2026-02-28 23:13] User logged in – harini – STUDENT
+[2026-02-28 23:14] User logged in – jo@edu – FACULTY
+[2026-04-19 10:22] User logged in – jo@edu – FACULTY
+[2026-04-19 10:22] Booking created – seminar – PENDING
+[2026-04-19 10:24] User logged in – System Admin – ADMIN

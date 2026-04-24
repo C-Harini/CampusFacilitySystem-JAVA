@@ -1,0 +1,1 @@
+REQ0001|BKG0002|USR002|FAC001|seminar|2026-03-02|Slot 9 [16:00 - 17:00];Slot 10 [17:00 - 18:00]|emergency meeting|SPECIAL_APPROVED

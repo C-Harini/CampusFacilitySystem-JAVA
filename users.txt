@@ -1,0 +1,3 @@
+USR001|System Admin|admin@campus.edu|admin123|ADMIN
+USR002|harini|harini@edu|123|STUDENT
+USR003|jo@edu|jo@edu|123|FACULTY
